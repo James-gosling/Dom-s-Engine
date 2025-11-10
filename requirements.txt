@@ -1,0 +1,4 @@
+# Bibliotecas de Python necesarias para el proyecto
+ollama
+langchain
+langchain-community
