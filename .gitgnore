@@ -1,0 +1,9 @@
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos específicos de Colab/Jupyter
+.ipynb_checkpoints/
